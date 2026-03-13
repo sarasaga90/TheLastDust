@@ -34,7 +34,8 @@ public class HealthManager : MonoBehaviour
             EndGame();
         }
         
-        
+
+
     }
 
     void EndGame()

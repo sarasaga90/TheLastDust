@@ -533,6 +533,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d21dc099e3868584482f6e02694cd6f7, type: 3}
       insertIndex: -1
       addedObject: {fileID: 360996264}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d21dc099e3868584482f6e02694cd6f7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 360996265}
   m_SourcePrefab: {fileID: 100100000, guid: d21dc099e3868584482f6e02694cd6f7, type: 3}
 --- !u!1 &360996252 stripped
 GameObject:
@@ -618,12 +621,24 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 0.01, y: 0.009, z: 0.01}
   m_Center: {x: 0, y: -0.002, z: 0}
+--- !u!114 &360996265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 360996252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d331777829b74d4da75679305759bf8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &534801557
 GameObject:
   m_ObjectHideFlags: 0
@@ -749,9 +764,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: da901390c57917e408cb20afee13bc8a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 552597003}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: da901390c57917e408cb20afee13bc8a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 552597005}
   m_SourcePrefab: {fileID: 100100000, guid: da901390c57917e408cb20afee13bc8a, type: 3}
 --- !u!1 &552596994 stripped
 GameObject:
@@ -782,7 +794,7 @@ MonoBehaviour:
   playerCamera: {fileID: 1558479683}
   isKnocking: 0
   knocbackLength: 1
-  knockbackPower: {x: -14, y: 14}
+  knockbackPower: {x: 14, y: 14}
 --- !u!143 &552597000
 CharacterController:
   m_ObjectHideFlags: 0
@@ -871,18 +883,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHealth: 3
   maxHealth: 3
---- !u!114 &552597005
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 552596994}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d331777829b74d4da75679305759bf8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &592379589
 GameObject:
   m_ObjectHideFlags: 0

@@ -11,7 +11,7 @@ public class HurtEnemy : MonoBehaviour
         {
             PlayerController player = other.GetComponentInParent<PlayerController>();
 
-                if (player != null && player.VerticalVelocity < 0)
+                if (player != null && player.VerticalVelocity <= 0)
                  {
                 EnemyHealthManager enemy = GetComponentInParent<EnemyHealthManager>();
                 if (enemy != null)
