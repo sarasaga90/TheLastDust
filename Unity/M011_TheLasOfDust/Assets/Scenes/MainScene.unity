@@ -788,6 +788,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
+  sprintSpeed: 20
   jumpForce: 20
   gravityScale: 5
   charController: {fileID: 552597000}
@@ -795,6 +796,8 @@ MonoBehaviour:
   isKnocking: 0
   knocbackLength: 1
   knockbackPower: {x: 14, y: 14}
+  tackleForce: 100
+  tackleDuration: 1
 --- !u!143 &552597000
 CharacterController:
   m_ObjectHideFlags: 0
