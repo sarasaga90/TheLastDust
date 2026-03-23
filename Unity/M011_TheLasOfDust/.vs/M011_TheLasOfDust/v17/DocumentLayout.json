@@ -1,38 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\",
+  "WorkspaceRootPath": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HurtPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HurtEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyHealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyHealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyHealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HurtPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\FollowPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FollowPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\FollowPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,15 +41,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HurtEnemy.cs",
-              "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HurtEnemy.cs",
-              "ToolTip": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtEnemy.cs",
+              "ToolTip": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtEnemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\HurtEnemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,37 +58,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HurtPlayer.cs",
-              "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HurtPlayer.cs",
-              "ToolTip": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtPlayer.cs",
+              "ToolTip": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HurtPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\HurtPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T22:50:10.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T22:50:10.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HealthManager.cs",
-              "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HealthManager.cs",
+              "DocumentMoniker": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HealthManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HealthManager.cs",
-              "ToolTip": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HealthManager.cs",
+              "ToolTip": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\HealthManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\HealthManager.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T22:44:07.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "EnemyHealthManager.cs",
-              "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyHealthManager.cs",
+              "DocumentMoniker": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyHealthManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealthManager.cs",
-              "ToolTip": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyHealthManager.cs",
+              "ToolTip": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyHealthManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyHealthManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,37 +96,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "EnemyController.cs",
-              "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
-              "ToolTip": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\EnemyController.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADQAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAADQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T18:06:47.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T17:27:11.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T17:27:11.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\isant\\Desktop\\clone\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,16 +134,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
               "ToolTip": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T16:22:32.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T16:22:32.44Z"
             }
           ]
         }
