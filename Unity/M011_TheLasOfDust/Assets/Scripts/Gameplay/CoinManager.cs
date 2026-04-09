@@ -13,17 +13,16 @@ public class CoinManager : MonoBehaviour
     public TMP_Text dustText;
 
 
-    // Start is called before the first frame update
     void Start()
     {
         coinText.text = " " + coinCount;
+        dustText.text = " " + dustCount;
     }
     void Awake()
     {
         instance = this;
     }
 
-    // Update is called once per frame
     void Update()
     {
         
