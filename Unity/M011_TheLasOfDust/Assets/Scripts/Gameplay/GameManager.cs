@@ -29,8 +29,9 @@ public class GameManager : MonoBehaviour
     public void Respawn()
     {
         PlayerController.instance.gameObject.SetActive(false);
-        PlayerController.instance.transform.position = respawnPosition;
         HealthManager.instance.ResetHealth();
+        PlayerController.instance.ResetMovement();
+        PlayerController.instance.transform.position = respawnPosition;
         PlayerController.instance.gameObject.SetActive(true);
     }
 }

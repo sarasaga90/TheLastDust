@@ -104,7 +104,6 @@ public class PlayerController : MonoBehaviour
 
             float normalizedTime = tackleCounter / tackleDuration;
 
-            // Mucha velocidad al inicio, frenazo rápido
             float speed = tackleForce * normalizedTime * normalizedTime;
 
             moveDirection = transform.forward * speed;
@@ -150,9 +149,15 @@ public class PlayerController : MonoBehaviour
 
         Vector3 forward = transform.forward;
 
-        moveDirection = forward * tackleForce * 1.5f; //  boost inicial
+        moveDirection = forward * tackleForce * 1.5f; 
         moveDirection.y = 0f;
+
+        HealthManager.instance.MakeInvincible(tackleDuration + 0.1f);
     }
 
+    public void ResetMovement()
+    {
+        moveDirection = Vector3.zero;
+    }
 
 }

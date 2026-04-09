@@ -27,6 +27,7 @@ public class HealthManager : MonoBehaviour
         if (invincCounter > 0)
         {
             invincCounter -= Time.deltaTime;
+
         }
     }
 
@@ -39,14 +40,16 @@ public class HealthManager : MonoBehaviour
             if (currentHealth <= 0)
             {
                 Die();
-                
-                
             }
             else
             {
                 invincCounter = invincibilityLength;
             }
         }
+    }
+    public void MakeInvincible(float duration)
+    {
+        invincCounter = duration;
     }
 
     public void ResetHealth()
@@ -63,5 +66,14 @@ public class HealthManager : MonoBehaviour
     void EndGame()
     {
         UnityEditor.EditorApplication.isPlaying = false;
+    }
+
+    public void AddHealth(int amountToHeal)
+    {
+        currentHealth += amountToHeal;
+        if (currentHealth > maxHealth)
+        {
+            currentHealth = maxHealth;
+        }
     }
 }
