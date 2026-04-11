@@ -8,9 +8,6 @@ public class HealthManager : MonoBehaviour
 
     public int currentHealth, maxHealth;
 
-    public float invincibilityLength = 2f;
-    private float invincCounter;
-
     private void Awake()
     {
         instance = this;
@@ -24,56 +21,25 @@ public class HealthManager : MonoBehaviour
 
     void Update()
     {
-        if (invincCounter > 0)
-        {
-            invincCounter -= Time.deltaTime;
-
-        }
+        
     }
 
     public void Hurt()
     {
-        if(invincCounter <= 0)
+        currentHealth--;
+
+        if (currentHealth <= 0)
         {
-            currentHealth--;
-
-            if (currentHealth <= 0)
-            {
-                Die();
-            }
-            else
-            {
-                invincCounter = invincibilityLength;
-            }
+            currentHealth = 0;
+            EndGame();
         }
-    }
-    public void MakeInvincible(float duration)
-    {
-        invincCounter = duration;
-    }
+        
 
-    public void ResetHealth()
-    {
-        currentHealth = maxHealth;
-    }
 
-    void Die()
-    {
-        currentHealth = 0;
-        GameManager.instance.Respawn();
     }
 
     void EndGame()
     {
         UnityEditor.EditorApplication.isPlaying = false;
-    }
-
-    public void AddHealth(int amountToHeal)
-    {
-        currentHealth += amountToHeal;
-        if (currentHealth > maxHealth)
-        {
-            currentHealth = maxHealth;
-        }
     }
 }

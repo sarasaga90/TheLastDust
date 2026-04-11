@@ -19,9 +19,7 @@ public class EnemyHealthManager : MonoBehaviour
         currentHealth--;
         if (currentHealth <= 0)
         {
-            CoinManager.instance.AddDust(1);
             Destroy(gameObject);
-
         }
     }
 }

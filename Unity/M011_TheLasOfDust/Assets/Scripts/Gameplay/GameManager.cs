@@ -4,34 +4,17 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager instance;
-    
-    private Vector3 respawnPosition;
-    public Transform respawnPoint;
 
-
-    private void Awake()
-    {
-        instance = this;
-    }
-    
+    // Start is called before the first frame update
     void Start()
     {
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
-        respawnPosition = respawnPoint.position;
     }
 
+    // Update is called once per frame
     void Update()
     {
         
-    }
-    public void Respawn()
-    {
-        PlayerController.instance.gameObject.SetActive(false);
-        HealthManager.instance.ResetHealth();
-        PlayerController.instance.ResetMovement();
-        PlayerController.instance.transform.position = respawnPosition;
-        PlayerController.instance.gameObject.SetActive(true);
     }
 }

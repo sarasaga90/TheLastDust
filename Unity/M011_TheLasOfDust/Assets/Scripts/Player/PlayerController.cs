@@ -23,7 +23,7 @@ public class PlayerController : MonoBehaviour
     private float knockbackCounter;
     public Vector2 knockbackPower;
     //Tackle
-    public float tackleForce = 40f;
+    public float tackleForce = 12f;
     public float tackleDuration = 0.3f;
     private bool isTackling;
     private float tackleCounter;
@@ -102,12 +102,6 @@ public class PlayerController : MonoBehaviour
         {
             tackleCounter -= Time.deltaTime;
 
-            float normalizedTime = tackleCounter / tackleDuration;
-
-            float speed = tackleForce * normalizedTime * normalizedTime;
-
-            moveDirection = transform.forward * speed;
-
             moveDirection.y += Physics.gravity.y * Time.deltaTime * gravityScale;
 
             charController.Move(moveDirection * Time.deltaTime);
@@ -117,7 +111,7 @@ public class PlayerController : MonoBehaviour
                 isTackling = false;
             }
 
-            return;
+            return; 
         }
 
 
@@ -149,15 +143,9 @@ public class PlayerController : MonoBehaviour
 
         Vector3 forward = transform.forward;
 
-        moveDirection = forward * tackleForce * 1.5f; 
+        moveDirection = forward * tackleForce;
         moveDirection.y = 0f;
-
-        HealthManager.instance.MakeInvincible(tackleDuration + 0.1f);
     }
 
-    public void ResetMovement()
-    {
-        moveDirection = Vector3.zero;
-    }
 
 }
