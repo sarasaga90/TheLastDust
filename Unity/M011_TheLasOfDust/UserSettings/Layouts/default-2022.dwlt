@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 989
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 187
+  controlID: 105
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 188
+  controlID: 25
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -369,8 +369,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -383,18 +383,18 @@ MonoBehaviour:
       y: 21
       width: 1034
       height: 569
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 517, y: 284.5}
+    m_Scale: {x: 1.7535051, y: 1.753505}
+    m_Translation: {x: 609.61316, y: 243.28827}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -517
-      y: -284.5
-      width: 1034
-      height: 569
+      x: -347.65405
+      y: -138.74399
+      width: 589.6761
+      height: 324.49295
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1034, y: 590}
@@ -760,9 +760,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 62.1, y: 1.1980025, z: -54.2}
+    m_Target: {x: -19.040787, y: 0.110105075, z: 12.661589}
     speed: 2
-    m_Value: {x: 62.1, y: 1.1980025, z: -54.2}
+    m_Value: {x: -19.040787, y: 0.110105075, z: 12.661589}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 3
@@ -808,13 +808,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.10679438, y: -0.7060561, z: 0.109184444, w: 0.69166505}
+    m_Target: {x: 0.14643207, y: 0.7335313, z: -0.16682419, w: 0.6425782}
     speed: 2
-    m_Value: {x: 0.10678146, y: -0.7059707, z: 0.109171234, w: 0.69158137}
+    m_Value: {x: 0.14616358, y: 0.73440343, z: -0.16702299, w: 0.6413978}
   m_Size:
-    m_Target: 8.344898
+    m_Target: 1.7359706
     speed: 2
-    m_Value: 8.344898
+    m_Value: 1.8177702
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -884,7 +884,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Player
+    - Assets/Prefabs/Environtment/Nivell_2
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -892,16 +892,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Player
+  - Assets/Prefabs/Environtment/Nivell_2
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\IOC\M011\TheLastDust\Unity\M011_TheLasOfDust
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 69}
-    m_SelectedIDs: c2070000
-    m_LastClickedID: 1986
-    m_ExpandedIDs: 00000000fa0500004606000000ca9a3b
+    scrollPos: {x: 0, y: 175}
+    m_SelectedIDs: 44760000
+    m_LastClickedID: 30276
+    m_ExpandedIDs: 00000000006e0000106e0000166e0000186e00001c6e0000346e00002c76000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -929,7 +929,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000006e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1056,7 +1056,7 @@ MonoBehaviour:
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
-    m_CachedPref: 160
+    m_CachedPref: 209
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
@@ -1105,7 +1105,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 88a1feffdaa1feffdea6feff48adfeff22affeff
+      m_ExpandedIDs: 3ad0feff86faffff8afaffff12fbffffd2680000646a00008a6a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
