@@ -65,7 +65,7 @@ public class HealthManager : MonoBehaviour
 
     void EndGame()
     {
-        UnityEditor.EditorApplication.isPlaying = false;
+        //UnityEditor.EditorApplication.isPlaying = false;
     }
 
     public void AddHealth(int amountToHeal)
