@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\Player\\HealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\HealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\Enemy\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\EnemyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\UI\\BarraVida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\BarraVida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\Player\\HealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\HealthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\Gameplay\\HealthPickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BarraVida.cs",
               "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\UI\\BarraVida.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BarraVida.cs",
@@ -74,8 +74,7 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\BarraVida.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T16:19:28.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T16:19:28.55Z"
             },
             {
               "$type": "Document",
@@ -91,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EnemyController.cs",
               "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\Enemy\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyController.cs",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Gameplay\\CoinManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:17:04.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T10:17:04.509Z"
             },
             {
               "$type": "Document",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Gameplay\\HealthPickup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:06:36.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T10:06:36.017Z"
             },
             {
               "$type": "Document",
@@ -174,8 +171,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\HurtPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:32:57.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T10:32:57.644Z"
             },
             {
               "$type": "Document",
@@ -211,18 +207,17 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:14:34.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T10:14:34.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HealthManager.cs",
               "DocumentMoniker": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\Player\\HealthManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HealthManager.cs",
               "ToolTip": "E:\\IOC\\M011\\TheLastDust\\Unity\\M011_TheLasOfDust\\Assets\\Scripts\\Player\\HealthManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\HealthManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T10:12:35.499Z",
               "EditorCaption": ""
